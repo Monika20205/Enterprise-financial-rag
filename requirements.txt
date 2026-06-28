@@ -8,8 +8,6 @@ faiss-cpu
 pypdf
 python-dotenv
 sentence-transformers
-transformers
-torch
 tiktoken
 numpy
 pandas
