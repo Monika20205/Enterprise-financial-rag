@@ -4,9 +4,10 @@ langchain-community
 langchain-groq
 langchain-huggingface
 langchain-text-splitters
-sentence-transformers
 faiss-cpu
 pypdf
 python-dotenv
+sentence-transformers
+tiktoken
 numpy
 pandas
